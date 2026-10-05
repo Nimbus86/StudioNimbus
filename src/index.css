@@ -1,0 +1,16 @@
+@import "tailwindcss";
+body {
+  margin: 0;
+
+  background:
+  radial-gradient(
+  circle at top,
+  rgba(0,229,255,0.15),
+  transparent 40%
+  ),
+  #050816;
+
+  font-family:
+  Inter,
+  sans-serif;
+}
