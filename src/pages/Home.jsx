@@ -7,7 +7,7 @@ export default function Home() {
       </h1>
 
       <p className="text-gray-400 mt-8 text-xl">
-        Remove image and video backgrounds with AI
+        Your online visual studio editor
       </p>
 
     </div>

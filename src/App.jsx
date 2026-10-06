@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import ImageRemove from "./pages/ImageRemove";
 import VideoRemove from "./pages/VideoRemove";
+import Projects from "./pages/Projects";
 
 function App() {
 
@@ -33,6 +34,11 @@ function App() {
             <Route
               path="/video-remove"
               element={<VideoRemove />}
+            />
+
+            <Route
+              path="/projects"
+              element={<Projects />}
             />
 
           </Routes>

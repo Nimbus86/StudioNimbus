@@ -25,6 +25,14 @@ export default function Navbar() {
         Video Background Remove
       </Link>
 
+      <Link
+        to="/projects"
+        className="text-cyan-400 hover:text-white transition"
+      >
+        Projects
+      </Link>
+
+
     </nav>
   );
 }
