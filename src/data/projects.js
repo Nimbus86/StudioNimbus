@@ -5,4 +5,11 @@ export const projects = [
     type: "video",
     media: "/Projects/Firecanon.webm"
   },
+
+  {
+    id: 2,
+    title: "Tarkov horloge fall",
+    type: "video",
+    media: "/Projects/VallendeHorloges.webm"
+  },
 ];
