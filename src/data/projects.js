@@ -12,4 +12,11 @@ export const projects = [
     type: "video",
     media: "/Projects/VallendeHorloges.webm"
   },
+
+  {
+    id: 3,
+    title: "Confetti canon",
+    type: "video",
+    media: "/Projects/confetti.webm"
+  },
 ];
